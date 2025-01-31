@@ -1,0 +1,19 @@
+p2p_file_share/
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── ui/
+│   │   ├── __init__.py
+│   │   ├── main_window.py
+│   │   └── ui_components.py
+│   ├── network/
+│   │   ├── __init__.py
+│   │   ├── p2p_server.py
+│   │   └── p2p_client.py
+│   ├── file_manager/
+│   │   ├── __init__.py
+│   │   └── file_transfer.py
+│   └── utils/
+│       ├── __init__.py
+│       └── system_commands.py
+└── requirements.txt 

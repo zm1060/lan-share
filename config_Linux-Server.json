@@ -1,0 +1,11 @@
+{
+            "port": 5001,
+            "download_path": "/home/ming/lan-share/downloads_Linux-Server",
+            "shared_folders": [],
+            "recent_commands": [],
+            "max_recent_commands": 50,
+            "auto_start": false,
+            "minimize_to_tray": true,
+            "theme": "system",
+            "encryption_key": "FoT8mC4L_LKQVGLF9DO7dfU8Dr_OTbvTD5VU5z1qJWQ="
+        }
